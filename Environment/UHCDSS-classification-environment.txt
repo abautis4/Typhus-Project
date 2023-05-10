@@ -1,0 +1,5 @@
+filename = 'processed_dataset.csv'
+datafolder = 'Data'
+label = 'Typhus'
+models_folder = 'Models'
+model = 'UH-LSTM-model-A.keras'

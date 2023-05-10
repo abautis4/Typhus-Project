@@ -1,0 +1,10 @@
+filename = 'processed_dataset.csv'
+datafolder = 'Data'
+label = 'Typhus'
+loss_function = 'mse'
+optimizer = 'adam'
+test_size = 0.5
+models_folder = 'Models'
+path_checkpoint1 = 'UH-LSTM-model-A.keras'
+path_checkpoint2 = 'UH-LSTM-model-B.keras'
+att_module_scores = 'UH-att_module_scores'

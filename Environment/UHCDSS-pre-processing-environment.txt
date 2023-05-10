@@ -1,0 +1,13 @@
+datafolder = 'Data'
+filename = 'name_of_the_dataset.csv'
+label = 'Typhus'
+using_thresholds = 'No'
+thresholds = 'None'
+create_new_column = 'No'
+new_column_name = 'None'
+new_column_operation = "None"
+data_imputation = 'No'
+imputation_columns = 'None'
+normalize = 'Yes'
+columns_to_normalize = 'All'
+name_of_processed_file = 'processed_dataset.csv'
